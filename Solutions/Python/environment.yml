@@ -1,0 +1,5 @@
+name: code-architecture
+dependencies:
+  - python=3.8
+  - numpy
+  - pytest-cov
